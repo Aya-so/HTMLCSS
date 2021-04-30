@@ -44,6 +44,9 @@ header .heading {
   height: 300px;
 }
 
+.main-visual-text {
+}
+
 .main {
   width: 840px;
   display: flex;
