@@ -1,0 +1,15 @@
+.box1 {
+  width: 300px;
+  height: 300px;
+  /* コメントテスト */
+  background-color: greenyellow;
+  margin: 30px 20px 10px 100px;
+  padding: 30px;
+}
+
+.box2 {
+  width: 100px;
+  height: 100px;
+  background-color: blue;
+  border: 10px solid purple;
+}
